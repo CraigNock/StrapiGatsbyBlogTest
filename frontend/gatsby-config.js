@@ -4,9 +4,9 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `My super blog`,
-    description: `Gatsby blog with Strapi`,
-    author: "Strapi team",
+    title: `CMS Example`,
+    description: `Gatsby with Strapi`,
+    author: "Team",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

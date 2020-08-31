@@ -83,7 +83,7 @@ SEO.defaultProps = {
   link: [
     {
       rel: "stylesheet",
-      href: "https://fonts.googleapis.com/css?family=Staatliches",
+      href: "https://fonts.googleapis.com/css2?family=Istok+Web&family=PT+Sans&family=Staatliches&display=swap",
     },
     {
       rel: "stylesheet",
